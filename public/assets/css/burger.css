@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 25%;
+}
+
+.red_font {
+    color: brown;
+}
+
+.tiny_text {
+    font-size: 11px;
+    color: blue;
+}
+
+.form-control {
+    width: 500px;
+    height:55px;      
+    border-width: thin; 
+    -webkit-box-align: center;
+}
